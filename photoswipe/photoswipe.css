@@ -56,7 +56,7 @@
 
 /*
 	Background is added as a separate element.
-	As animating opacity is much faster than animating rgba() background-color.
+  As animating opacity is much faster than animating rgba() background-color.
 */
 .pswp__bg {
   position: absolute;
